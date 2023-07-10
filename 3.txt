@@ -1,0 +1,3 @@
+this is text3 file
+this was version 6
+this is previous version.
